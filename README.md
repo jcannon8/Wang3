@@ -16,7 +16,8 @@ anNck3.sh: Build edr Nck-PRS interaction restraints.
 tcr33minR.sh: Minimization of tcr33b,c,s and tcr35s on Rockfish.  
 edt5min.sh: Minimization of edt.* on Rockfish  
 edtNPT4.sh: Heat and two 500 ps NPT of edt models on Expanse  
-edtNPT2.sh: continue 5 ns NPT of edt models on Rockfish 
+edtNPT2.sh: continue 5 ns NPT of edt models on Rockfish    
+edrNPT4.sh: Heat and two 500 ps NPT of edr models on Expanse   
 
 **Examples** Eight TCR and TCR-GOF structures at 425 ns from figure 14.
 
