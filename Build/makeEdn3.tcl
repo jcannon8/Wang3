@@ -2,7 +2,8 @@
 # with Nck bound to CD3 epsilon PRS.
 # This uses Nck and PRS coordinates in the input cd3edm model.
 # Output models, edm.*.[pdb, psf], have protein, membrane, and water.
-# This is derived from makeEdn2.tcl.
+# These models do not have restraints, edr models have restraints.
+# This is derived from makeEdn2.tcl, but uses PRS-Nck reference 2jxb3.c0. 
 # vmd -dispdev none on Eire
 # Environment variables for model range desired
 set first $env(first)
