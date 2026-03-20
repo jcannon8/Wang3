@@ -22,8 +22,8 @@ set nckAll [atomselect $nckCD3 all frame 0]
 $nckAll set chain K
 # Use 6.875 ns equilibrated cd3edn.eq7 for reference. 
 # Autoimage using chain E anchor to bring the most water into cytoplasm.
-set tcr2 [mol new /home/jcannon/tcr16/charm-gui5/amber/cd3edn.psf]
-mol addfile /home/jcannon/tcr16/charm-gui5/amber/cd3edn.ref1.pdb waitfor all
+set tcr2 [mol new /t/tcr16/charm-gui5/amber/cd3edn.psf]
+mol addfile /t/tcr16/charm-gui5/amber/cd3edn.ref1.pdb waitfor all
 # That psf marks chains by segid.
 # chain E: segid PROA, Met600-Ile682; chain D: srgid PROB, Glu285-Lys358
 # chain E Met125-Ile171 and Glu98-Lys171 in 6JXR resid
