@@ -1,5 +1,5 @@
 # anEdt16.tcl: Check CD3 PRS dihedral angles for Nck binding criteria
-# and combine with collision data to calculate Nck binding.
+# combined with collision data to calculate Nck binding.
 # Use the 7-27-24 criteria: P182 ψ <100°, P184 ψ <100°
 # This is derived from anEdt14.tcl
 # This uses anEdt7.tcl collision output, edtPRS10.*.dat 
