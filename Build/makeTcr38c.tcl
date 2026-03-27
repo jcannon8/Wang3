@@ -1,4 +1,4 @@
-# makeTcr38c.tcl: VMD script to add CD3 zeta dimer to tcr38.* to make tcr38.*.**.
+# makeTcr38c.tcl: Test adding CD3 zeta CTs to tcr38.* to make tcr38.*.**.
 # This reports on collisions from models with various zeta3 frames.
 # Constructions are made without regard to Nck binding.
 # Derived from makeTcr37a.tcl
