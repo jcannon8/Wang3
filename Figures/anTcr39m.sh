@@ -133,7 +133,6 @@ paste tcr39.memAve.dat tcr39.memSD.dat > tcr39.memAS.dat
 # Plot average RK distances to membrane, S11 fig A 
 residues="R206e R206f K171d R181g R92a K104a K136a R164a R92b K104b K136b R164b"
 gnuplot<<eof
-#set term jpeg font "arial.ttf,18" size 1280,960
 set term jpeg font "arial.ttf,18" size 1000,750
 set out 'tcr39.mem07.jpg'
 # layout: rows, columns
@@ -258,3 +257,5 @@ R92b 7.419 14.589 4.08e-05 7.17
 K104b 8.747 13.157 0.018 4.409
 K136b 10.05 14.768 0.0247 4.719
 R164b 16.05 14.443 0.366 -1.607
+
+
