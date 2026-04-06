@@ -49,6 +49,7 @@ close $out
 mol delete $tcr
 }
 ###########################################################
+# anEdt7.tcl output Nck binding in edtPRS10.*.dat.
 # Combine collision in edtPRS10.*.dat with bad angles in edtPRS16.*.dat
 for mod in 84 171 30 115 35 90 13 41 32 153 198; do
 paste edtPRS10.$mod.dat edtPRS16.$mod.dat >temp
