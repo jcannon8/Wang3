@@ -1,4 +1,4 @@
-# tcr38lck3.tcl: Plot Lck binding to tcr38b, tcr39b (Fig 16A,B).
+# tcr38lck3.tcl: Plot Lck binding to tcr38.*.**, tcr39.*.** (Fig 16A,B).
 # Using data from tcr38lck2.tcl
 # Example of tcr38lck2.dat output:
 #   tcr38.0.00   8 A  153  3.12    9.57    9.45
