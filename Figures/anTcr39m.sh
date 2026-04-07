@@ -1,4 +1,4 @@
-# anTcr39m.sh: Analyze KR membrane association CT residues in tcr39b (S11 fig).
+# anTcr39m.sh: Analyze KR membrane association CT residues in tcr39.*.** (S11 fig).
 # derived from anTcr38m.sh
 cd /t/tcr39an
 # Use VMD to get 1-based Amber residue numbers for CD3 CT KR residues. 
