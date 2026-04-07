@@ -1,4 +1,4 @@
-# anTcr38q.tcl: Calculate Nck binding potential for tcr38 ensemble (S14B fig).
+# anTcr38q.tcl: Calculate Nck binding potential for tcr38.*.** ensemble (S14B fig).
 # This uses 7-27-24 PRS angle criteria.
 # Plot comparisons of tcr38 and tcr39 ensembles.
 # Analyze frames eq4 to eq45 (4-202 ns)
