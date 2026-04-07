@@ -1,4 +1,4 @@
-# anTcr38rep1.tcl: Report Nck, Lck binding, and ITAM Tyr penetration in tcr38b models.
+# anTcr38rep1.tcl: Report Nck, Lck binding, and ITAM Tyr penetration in tcr38.*.** models.
 # Using data from 
 # tcr38.*.**.Nckt3.dat, tcr38lck2.dat, and tcr38.memy85b.dat. 
 # tcr38.*.**.Nckt3.dat files from antcr38r.tcl, one line per model.
