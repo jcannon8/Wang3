@@ -1,4 +1,4 @@
-# anTcr38b.sh: Analyze KR CT membrane association in trc38a MD (S10 fig).
+# anTcr38b.sh: Analyze KR CT membrane association in trc38.* MD (S10 fig).
 # vmd -dispdev none on Eire. 
 # Remember VMD resid, residue, and index are zero-based. 
 # Amber residue and index are one-based.
