@@ -1,4 +1,4 @@
-# anTcr38r.tcl: Nck analysis of tcr38b models every 5 ns from *.rst files. 
+# anTcr38r.tcl: Nck analysis of tcr38.*.** models every 5 ns from *.rst files. 
 # This uses multiple references for PRS-bound Nck from [edr,fgr].*.eq54.rst frames.
 # Those are in NckPRS.dcd made by makeNckref.tcl
 # Collisons are heavy atoms less than or equal to 1.0 angstroms.
