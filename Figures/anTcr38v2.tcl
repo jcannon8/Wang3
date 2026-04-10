@@ -1,4 +1,4 @@
-# anTcr38v2.tcl: Plot CD3 CT anchor configuration and membrane position (Fig 17).
+# anTcr38v2.tcl: Plot CD3 CT anchor configuration and membrane position (Fig 16).
 # in tcr38b and tcr39b models.
 # Single 405 ns (eq85) frame analyzed.
 # vmd -dispdev none
