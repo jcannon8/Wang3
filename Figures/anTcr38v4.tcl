@@ -1,4 +1,4 @@
-# anTcr38v4.tcl: Report anchor radii for several tcr38.*.** & tcr39.*.** CT residues (Fig 19).
+# anTcr38v4.tcl: Report anchor radii for several tcr38.*.** & tcr39.*.** CT residues (Fig 18).
 # Single 425 ns (eq85) frame analyzed.
 # The goal is to get max radius and mean Z dimension for each anchor.
 # Derived from anTcr38v3.tcl
