@@ -1,4 +1,4 @@
-# viewLegend.tcl: Color legend for TCR model subunits (Fig 14).
+# viewLegend.tcl: Color legend for TCR model subunits (Fig 13).
 # Use graphics and draw VMD commands to make a legend for TCR models.
 # This size (width, height) allows four models across full page width.
 display resize 560 300; 
